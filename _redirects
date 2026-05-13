@@ -1,0 +1,8 @@
+# Netlify redirects for static HTML site
+/appointment /appointment.html 200
+/contact /contact.html 200
+/doctors /doctors.html 200
+/services /services.html 200
+/gallery /gallery.html 200
+/faq /faq.html 200
+/* /404.html 404
